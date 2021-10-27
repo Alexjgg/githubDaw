@@ -1,0 +1,7 @@
+Comando para subir un repositorio basico
+git init para iniciar un repositorio local de git
+git add . para añadir archivos a ese repositorio loca
+git commit -m "comentario" para añadirlo al repositorio
+git branch -M main para añadirlo a la linea principal
+git remote add oriregen(aun que serveria calquer outra palabra)https://github.com/Alexjgg/githubDaw.git para añadir un "enlace"
+git push -u origen main para subir os archivos do repositorio local ao de git na nube
